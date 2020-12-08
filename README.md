@@ -11,3 +11,10 @@ Airport scenery for Microsoft Flight Simulator 2020 covering Fort Resolution air
 | **ICAO** | CYFR |
 | **Runways** | 13/31 |
 | **Elevation** | 527 feet |
+
+
+### Screenshots
+![CYFR Screenshot 1](/screenshots/cyfr-1.jpg?raw=true "CYFR Screenshot 1")
+![CYFR Screenshot 2](/screenshots/cyfr-2.jpg?raw=true "CYFR Screenshot 2")
+![CYFR Screenshot 3](/screenshots/cyfr-3.jpg?raw=true "CYFR Screenshot 3")
+![CYFR Screenshot 4](/screenshots/cyfr-4.jpg?raw=true "CYFR Screenshot 4")
