@@ -1,0 +1,8 @@
+<Project Version="2" Name="airport-canada-cyfr-fort-resolution" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\clearedenroute-airport-cyfr-fortresolution.xml</Package>
+	</Packages>
+</Project>
+
