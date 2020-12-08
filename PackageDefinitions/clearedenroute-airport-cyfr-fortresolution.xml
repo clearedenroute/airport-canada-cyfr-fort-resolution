@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\clearedenroute-airport-cyfr-fortresolution\ContentInfo\</AssetDir>
+			<AssetDir>PackageDefinitions\clearedenroute-airport-cyfr-fortresolution\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\clearedenroute-airport-cyfr-fortresolution\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="clearedenroute-airport-cyfr-fort-resolution">
