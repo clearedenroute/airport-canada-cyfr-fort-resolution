@@ -28,21 +28,48 @@
 		<TaxiwayParking index="10" type="RAMP_GA_MEDIUM" lat="61.17545056583954" lon="-113.68443551973543" heading="239.475372" radius="14.000000" name="SE_PARKING" number="2" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="11" type="RAMP_GA_LARGE" lat="61.17564472479020" lon="-113.68414670834406" heading="161.640121" radius="27.000000" name="PARKING" number="1" suffix="NONE" pushBack="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
-		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="12" end="8" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="14" end="9" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="7" end="10" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="6" end="11" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="1" width="10.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="2" width="13.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="2" end="3" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="4" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="4" end="5" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="1" end="6" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="14" end="7" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="1" end="12" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="6" end="14" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="RUNWAY" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="3" end="5" width="13.000000" weightLimit="0" number="13" designator="NONE" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<Runway lat="61.18061499999762" lon="-113.68920647218867" alt="161.00121829565614" heading="323.51370239257813" length="1220.00000000000000" width="30.00000000000000" patternAltitude="465.00000000000000" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="13" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="FALSE">
+		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="12" end="8" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="14" end="9" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="7" end="10" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="PARKING" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="6" end="11" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="1" width="10.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="2" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="2" end="3" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="0" end="4" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="4" end="5" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="1" end="6" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="14" end="7" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="1" end="12" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="TAXI" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="6" end="14" width="13.000000" weightLimit="0" name="0" drawSurface="TRUE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
+		</TaxiwayPath>
+		<TaxiwayPath type="RUNWAY" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" centerLine="FALSE" start="3" end="5" width="13.000000" weightLimit="0" number="13" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<Runway lat="61.18061499999762" lon="-113.68920647218867" alt="161.00121829565614" heading="323.51370239257813" length="1220.00000000000000" width="30.00000000000000" patternAltitude="465.00000000000000" surface="{DDA4BB40-36F4-4CD3-8B2A-46D9C954FE00}" transparent="FALSE" number="13" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="FALSE">
+			<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
 			<BlastPad end="PRIMARY" surface="{00000000-0000-0000-0000-000000000000}" length="50.000000"/>
@@ -51,6 +78,7 @@
 		</Runway>
 		<Aprons>
 			<Apron surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" priority="0" tiling="25.000000" heading="1.727876" falloff="5.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Coloration red="145" green="145" blue="130" alpha="255" override="TRUE"/>
 				<Vertex lat="61.17608871469580" lon="-113.68528520144977"/>
 				<Vertex lat="61.17599746563400" lon="-113.68553743266081"/>
 				<Vertex lat="61.17590947167871" lon="-113.68551667836016"/>

@@ -1,4 +1,4 @@
-<AssetPackage Name="clearedenroute-airport-cyfr-fortresolution" Version="0.1.0">
+<AssetPackage Name="clearedenroute-airport-cyfr-fortresolution" ReleaseNotes="PackageDefinitions\clearedenroute-airport-cyfr-fortresolution\ReleaseNotes.xml" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Fort Resolution Airport (CYFR) Canada</Title>
@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\clearedenroute-airport-cyfr-fortresolution\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\clearedenroute-airport-cyfr-fortresolution\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\clearedenroute-airport-cyfr-fortresolution\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="clearedenroute-airport-cyfr-fort-resolution">
